@@ -1,0 +1,6 @@
+{
+  "name": "75-Ball Telegram Bingo Game",
+  "description": "75-Ball Telegram Bingo game with 150 pre-generated cards, live caller, multi-player simulation, win pattern verification, and Telegram Mini App integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
